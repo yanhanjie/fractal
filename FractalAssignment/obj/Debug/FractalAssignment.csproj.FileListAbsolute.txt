@@ -1,0 +1,82 @@
+D:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe.config
+D:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe
+D:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.pdb
+D:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csprojResolveAssemblyReference.cache
+D:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Properties.Resources.resources
+D:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csproj.GenerateResource.Cache
+D:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.exe
+D:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.pdb
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe.config
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.exe
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.pdb
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.pdb
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csprojResolveAssemblyReference.cache
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Properties.Resources.resources
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csproj.GenerateResource.Cache
+O:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form1.resources
+O:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Properties.Resources.resources
+O:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.exe
+O:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.pdb
+O:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe.config
+O:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csprojResolveAssemblyReference.cache
+O:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csproj.GenerateResource.Cache
+O:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe
+O:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.pdb
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form1.resources
+G:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe.config
+G:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe
+G:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.pdb
+G:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form1.resources
+G:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Properties.Resources.resources
+G:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\GenerateResource.read.1.tlog
+G:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\GenerateResource.write.1.tlog
+G:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.exe
+G:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.pdb
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe.config
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.pdb
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form1.resources
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Properties.Resources.resources
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csproj.GenerateResource.Cache
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.exe
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.pdb
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.AboutBox1.resources
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form2.resources
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.AboutBox1.resources
+I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form2.resources
+P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe.config
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.exe
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.pdb
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.pdb
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.AboutBox1.resources
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form1.resources
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form2.resources
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Properties.Resources.resources
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csproj.GenerateResource.Cache
+I:\C#\FractalAssignment-master\FractalAssignment\bin\Debug\FractalAssignment.exe.config
+I:\C#\FractalAssignment-master\FractalAssignment\bin\Debug\FractalAssignment.exe
+I:\C#\FractalAssignment-master\FractalAssignment\bin\Debug\FractalAssignment.pdb
+I:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.csprojResolveAssemblyReference.cache
+I:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.AboutBox1.resources
+I:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.Form1.resources
+I:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.Form2.resources
+I:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.Properties.Resources.resources
+I:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.csproj.GenerateResource.Cache
+I:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.exe
+I:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.pdb
+G:\C#\FractalAssignment-master\FractalAssignment\bin\Debug\FractalAssignment.exe.config
+G:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.exe
+G:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.pdb
+G:\C#\FractalAssignment-master\FractalAssignment\bin\Debug\FractalAssignment.exe
+G:\C#\FractalAssignment-master\FractalAssignment\bin\Debug\FractalAssignment.pdb
+G:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.csprojResolveAssemblyReference.cache
+G:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.AboutBox1.resources
+G:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.Form1.resources
+G:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.Form2.resources
+G:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.Properties.Resources.resources
+G:\C#\FractalAssignment-master\FractalAssignment\obj\Debug\FractalAssignment.csproj.GenerateResource.Cache
